@@ -3,7 +3,7 @@
 ## _What we took in session 1_ 
 
 
-**1- how to print a sentence**<br>
+**1- How to print a sentence**<br>
 `System.out.print("hello in HackerRank");`<br>
 or <br>
 `System.out.println("hello in HackerRank with");`<br>
@@ -25,7 +25,7 @@ System.out.println("hello\\Abdelrhman\\2002\\new year");
 ```
 _take care if you want to print \ or another special characters, to print it in the form\\\\._
 
-**2- naming identifiers**<br>
+**2- Naming identifiers**<br>
 an identifier (a variable name) can be a sequence of Unicode characters that represent letters, digits 0-9, a dollar sign ($), or an underscore (_).<br>
 
 _some limitations_
@@ -94,7 +94,7 @@ String name = "Abdelrhman Khaled";
 System.out.println("My name is: "+name +" And my age is: "+age);
 ```
 
-**4- some usefull functions in class Integer**<br>
+**4- Some usefull functions in class Integer**<br>
   
 Let's try to convert numbers from int to Binary and Octal...
 
@@ -127,7 +127,7 @@ float k = n > m ? (n * m + 3) : ((float)n / m);
 System.out.println(k);            //prints: 0.5
 ```
 
-**7- we spoke about typeCasting**<br>
+**7- We spoke about typeCasting**<br>
 
 if you try to divide integer number on interger number the outPut must be integer.
 
@@ -143,7 +143,7 @@ that we done is called type case, and there is to ways to case from int to doubl
 1. multiply the number with 1.0
 2. or and (double)before the number
 
-**8- finally we spoke about if statement**<br>
+**8- Finally we spoke about if statement**<br>
 
 and the style of write it is 
 
