@@ -1,6 +1,6 @@
 # HackerRank-AUFS-season-6
 
-## _What we took in session 1_ 
+## _What we took in session 2_ 
 
 
 **1- How to print a sentence**<br>
